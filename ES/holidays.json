@@ -1,0 +1,52 @@
+{
+  "entity": {
+    "type": "country",
+    "name": "Spain",
+    "code": "ES",
+    "interval": null
+  },
+  "holidays": [
+    {
+      "name": "New Year's Day",
+      "name_es-es": "Año Nuevo",
+      "date": "01-01",
+      "public_holiday": true
+    },
+    {
+      "name": "",
+      "name_es-es": "Reyes Magos",
+      "date": "01-06",
+      "public_holiday": true
+    },
+    {
+      "name": "Labor Day",
+      "name_es-es": "Día del Trabajo",
+      "date": "05-01",
+      "public_holiday": true
+    },
+    {
+      "name": "National Day",
+      "name_es-es": "Día de la Hispanidad",
+      "date": "10-12",
+      "public_holiday": true
+    },
+    {
+      "name": "",
+      "name_es-es": "Todos los Santos",
+      "date": "11-01",
+      "public_holiday": true
+    },
+    {
+      "name": "Constitution Day",
+      "name_es-es": "Día de la Constitución Española",
+      "date": "12-06",
+      "public_holiday": true
+    },
+    {
+      "name": "Christmas",
+      "name_es-es": "Navidad",
+      "date": "12-25",
+      "public_holiday": true
+    }
+  ]
+}
