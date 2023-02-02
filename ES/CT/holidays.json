@@ -1,0 +1,11 @@
+{
+  "entity": {
+    "type": "state",
+    "name": "Catalonia",
+    "name_origin": "Catalunya",
+    "code": "ES-CT",
+    "origin_language": "es-ca",
+    "interval": null
+  },
+  "holidays": []
+}

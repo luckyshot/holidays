@@ -1,0 +1,11 @@
+{
+  "entity": {
+    "type": "city",
+    "name": "Barcelona",
+    "name_origin": "Barcelona",
+    "code": "BCN",
+    "origin_language": "es-ca",
+    "interval": null
+  },
+  "holidays": []
+}

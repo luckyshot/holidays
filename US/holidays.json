@@ -1,0 +1,11 @@
+{
+  "entity": {
+    "type": "country",
+    "name": "United States",
+    "name_origin": "United States",
+    "code": "US",
+    "origin_language": "en-us",
+    "interval": null
+  },
+  "holidays": []
+}

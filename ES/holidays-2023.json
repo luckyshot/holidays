@@ -2,20 +2,22 @@
   "entity": {
     "type": "country",
     "name": "Spain",
+    "name_origin": "España",
     "code": "ES",
+    "origin_language": "es-es",
     "interval": "year",
     "year": 2023
   },
   "holidays": [
     {
       "name": "",
-      "name_es-es": "Viernes Santo",
+      "name_origin": "Viernes Santo",
       "date": "04-07",
       "public_holiday": true
     },
     {
       "name": "",
-      "name_es-es": "Asunción de la Virgen",
+      "name_origin": "Asunción de la Virgen",
       "date": "09-15",
       "public_holiday": true
     }

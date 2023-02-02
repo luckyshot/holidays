@@ -1,0 +1,11 @@
+{
+  "entity": {
+    "type": "province",
+    "name": "Barcelona",
+    "name_origin": "Barcelona",
+    "code": "ES-B",
+    "origin_language": "es-ca",
+    "interval": null
+  },
+  "holidays": []
+}
