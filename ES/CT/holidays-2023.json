@@ -5,7 +5,8 @@
     "name_origin": "Catalunya",
     "code": "ES-CT",
     "origin_language": "es-ca",
-    "interval": "year"
+    "interval": "year",
+    "year": 2023
   },
   "holidays": [
     {
