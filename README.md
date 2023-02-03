@@ -6,24 +6,25 @@ A collection of bank holidays for several places.
 
 ## Folder structure
 
+### Countries ([ISO 3166-2 codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv))
+
 ```
-# Countries
+/{country}/holidays.json
+/{country}/holidays-YYYY.json
+```
 
-/{country}/                              (in ISO 3166 Alpha-2 code)
-          /holidays.json
-          /holidays-YYYY.json            (year in 4-digit format)
+### States/Provinces ([ISO 3166-2 codes](https://en.wikipedia.org/wiki/ISO_3166-2:ES))
 
-# States/Provinces
+```
+/{country}/{state}/holidays.json
+/{country}/{state}/holidays-YYYY.json
+```
 
-/{country}/{state}/
-                  /holidays.json
-                  /holidays-YYYY.json
+# Cities ([ISO 3166-2 code](https://en.wikipedia.org/wiki/ISO_3166-2:ES))
 
-# Cities
-
-/{country}/{state}/{city}/
-                         /holidays.json
-                         /holidays-YYYY.json
+```
+/{country}/{state}/{city}/holidays.json
+/{country}/{state}/{city}/holidays-YYYY.json
 ```
 
 # Examples
