@@ -1,0 +1,36 @@
+{
+  "entity": {
+    "type": "state",
+    "name": "Catalonia",
+    "name_origin": "Catalunya",
+    "code": "ES-CT",
+    "origin_language": "es-ca",
+    "interval": "year"
+  },
+  "holidays": [
+    {
+      "name": "",
+      "name_origin": "Dilluns de Pascua Florida",
+      "date": "2023-04-10",
+      "public_holiday": true
+    },
+    {
+      "name": "",
+      "name_origin": "San Joan",
+      "date": "2023-06-24",
+      "public_holiday": true
+    },
+    {
+      "name": "",
+      "name_origin": "Diada Nacional de Catalunya",
+      "date": "2023-09-11",
+      "public_holiday": true
+    },
+    {
+      "name": "",
+      "name_origin": "San Esteve",
+      "date": "2023-12-26",
+      "public_holiday": true
+    }
+  ]
+}
