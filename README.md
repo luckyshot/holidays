@@ -20,14 +20,14 @@ A collection of bank holidays for several places.
 /{country}/{state}/holidays-YYYY.json
 ```
 
-# Cities ([ISO 3166-2 code](https://en.wikipedia.org/wiki/ISO_3166-2:ES))
+### Cities ([ISO 3166-2 code](https://en.wikipedia.org/wiki/ISO_3166-2:ES))
 
 ```
 /{country}/{state}/{city}/holidays.json
 /{country}/{state}/{city}/holidays-YYYY.json
 ```
 
-# Examples
+## Examples
 
 Please see `/ES/`, `/ES/CT/` and `/ES/CT/B/` for an example.
 
