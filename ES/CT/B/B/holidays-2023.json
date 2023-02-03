@@ -1,0 +1,25 @@
+{
+  "entity": {
+    "type": "city",
+    "name": "Barcelona",
+    "name_origin": "Barcelona",
+    "code": "BCN",
+    "origin_language": "es-ca",
+    "interval": "year",
+    "year": 2023
+  },
+  "holidays": [
+    {
+      "name": "",
+      "name_origin": "",
+      "date": "2023-06-05",
+      "public_holiday": true
+    },
+    {
+      "name": "",
+      "name_origin": "",
+      "date": "2023-09-25",
+      "public_holiday": true
+    }
+  ]
+}
